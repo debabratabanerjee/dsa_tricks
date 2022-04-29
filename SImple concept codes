@@ -1,0 +1,7 @@
+//for sorting
+
+function sortArray(arr , n){
+  arr.sort((a,b)=>a-b);
+}
+
+//
