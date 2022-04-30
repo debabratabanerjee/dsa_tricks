@@ -4,4 +4,7 @@ function sortArray(arr , n){
   arr.sort((a,b)=>a-b);
 }
 
-//
+//storing value in a set
+
+newSet = new Set();
+
