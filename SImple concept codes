@@ -13,3 +13,6 @@ steps 1. turn STRING to ARRAY
       2. sort the ARRAY
       3. turn back ARRAY to STRING
 code: const sorted_t = t.split('').sort().join(''); 
+
+
+//hashmap and collection use of java
