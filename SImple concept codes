@@ -16,3 +16,7 @@ code: const sorted_t = t.split('').sort().join('');
 
 
 //hashmap and collection use of java
+
+//new hash map declaration in javascript
+let newMap = new Map();
+
