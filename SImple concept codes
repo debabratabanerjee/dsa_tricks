@@ -20,3 +20,10 @@ code: const sorted_t = t.split('').sort().join('');
 //new hash map declaration in javascript
 let newMap = new Map();
 
+// two new funtions learned in javascript [4/4/21]
+array.indexOf(element)  //it will give the index number of the outpt
+
+Math.max(...array) //it will return the max in the array
+
+//finding peak element one liner
+arr.indexOf(Math.max(...arr))
